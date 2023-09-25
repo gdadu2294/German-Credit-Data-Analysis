@@ -65,8 +65,4 @@ Contributing
 
 Contributions to this project are welcome! If you find any issues, have suggestions, or want to improve the model, feel free to open an issue or create a pull request.
 
-License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 Feel free to customize this README to include specific details about your project, such as installation instructions, data preprocessing steps, and more. Providing clear and concise documentation will make your project more accessible to others who want to use or contribute to it.# German-Credit-Data-Analysis
