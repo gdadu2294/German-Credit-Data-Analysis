@@ -28,25 +28,7 @@ To run this project, you need the following dependencies:
 
 Python 3.x
 Jupyter Notebook (for running the project notebooks)
-Libraries: NumPy, pandas, scikit-learn, matplotlib, seaborn (install using pip or conda)
-You can install the required libraries using the following command:
-
-bash
-
-pip install -r requirements.txt
-
-Clone this repository to your local machine:
-bash
-
-git clone https://github.com/yourusername/german-credit-predictor.git
-
-Navigate to the project directory:
-bash
-
-cd german-credit-predictor
-
-Run the Jupyter Notebook to explore the project and run the prediction model:
-bash
+Libraries: NumPy, pandas, scikit-learn, matplotlib, seaborn (install using pip or conda) 
 
 jupyter notebook
 Open the German_Credit_Predictor.ipynb notebook and follow the instructions to train the model and make predictions.
